@@ -74,7 +74,6 @@ class Bank(object):
 
 
 if __name__ == "__main__":
-    # Example usage
     bank = Bank()
     bank.add_account("Tom", 2000)
     bank.add_account("Jack", 1500)
